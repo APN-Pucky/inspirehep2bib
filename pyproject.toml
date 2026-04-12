@@ -27,7 +27,7 @@ classifiers = [
 dependencies = []
 
 [project.scripts]
-inspire2bib = "inspirehep2bib:main"
+inspirehep2bib = "inspirehep2bib:main"
 
 [project.urls]
 Documentation = "https://github.com/APN-Pucky/inspirehep2bib#readme"
